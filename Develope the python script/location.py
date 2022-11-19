@@ -8,7 +8,7 @@ myConfig = {
 		"deviceId":"12345"
 	},
 	"auth": {
-		"token": "12345678"
+		"token": "EBDmX4mBmew3zYUHlT"
 	}
 }
 
